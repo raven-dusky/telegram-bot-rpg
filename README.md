@@ -15,16 +15,16 @@ So if you see spaghetti in the code, just know: it's **functional spaghetti**. ð
 ---
 
 <p align="center">
-  <img src="screenshots/IMG_0254.PNG" width="180" height="400" style="margin-right:25px;"/>
-  <img src="screenshots/IMG_0256.PNG" width="180" height="400" style="margin-right:25px;"/>
-  <img src="screenshots/IMG_0257.PNG" width="180" height="400" style="margin-right:25px;"/>
+  <img src="screenshots/IMG_0254.PNG" width="180" height="400"/>
+  <img src="screenshots/IMG_0256.PNG" width="180" height="400"/>
+  <img src="screenshots/IMG_0257.PNG" width="180" height="400"/>
   <img src="screenshots/IMG_0258.PNG" width="180" height="400"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/IMG_0259.PNG" width="180" height="400" style="margin-right:25px;"/>
-  <img src="screenshots/IMG_0260.PNG" width="180" height="400" style="margin-right:25px;"/>
-  <img src="screenshots/IMG_0261.PNG" width="180" height="400" style="margin-right:25px;"/>
+  <img src="screenshots/IMG_0259.PNG" width="180" height="400"/>
+  <img src="screenshots/IMG_0260.PNG" width="180" height="400"/>
+  <img src="screenshots/IMG_0261.PNG" width="180" height="400"/>
 </p>
 
 ---
